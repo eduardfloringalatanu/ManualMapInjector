@@ -14,4 +14,4 @@ Available features:
 ![Screenshot_1](https://github.com/user-attachments/assets/4aedd3dc-36f4-41f2-8b4c-d44a36626269)
 
 # How to use?
-Add corresponding modules in the list from the _"File"_ menu, select the desired process from the list below and click _"Inject"_.
+Run _"ManualMapInjector.exe"_ __as administrator__, add corresponding modules in the list from the _"File"_ menu, select the desired process from the list below and click _"Inject"_.
